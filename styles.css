@@ -383,4 +383,17 @@ footer {
     border-left: 5px solid #f39c12;
     padding-left: 15px;
 }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  .footer-content a {
+    color: #0af;
+    text-decoration: none;
+  }
+  .social-links a {
+    margin: 0 10px;
+  }
 
